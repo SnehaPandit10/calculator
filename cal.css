@@ -1,0 +1,39 @@
+.textview{
+    width: 25vw;
+    height: 6vh;
+    font-size: 25px;
+    padding: 5px;
+    margin-top: 10px;
+    box-shadow: rgb(48, 14, 14);
+    text-align: right;
+}
+.button{
+    width: 6vw;
+    height: 6vh;
+    font-size: 20px;
+    margin: 2px;
+    cursor: pointer;
+    background-color: rgb(23, 133, 148);
+    border-radius: 50px;
+    margin-top: 20px;
+    outline: 0;
+
+}
+.page{
+    
+    top: 15%;
+    left: 40%;
+    position: absolute;
+}
+.main{
+    height: 100vh;
+    width: 100vw;
+    background-color:rgb(6, 33, 49);
+}
+.head{
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    color: rgb(23, 133, 148);
+    margin-top: 3px;
+}
